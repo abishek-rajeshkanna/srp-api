@@ -1,1 +1,1 @@
-# Profanit Detector API
+# Profanity Detector API
